@@ -1,4 +1,4 @@
-Questao 13
+Questao13
 
 #include <stdio.h>
 
