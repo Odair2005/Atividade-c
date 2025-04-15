@@ -1,4 +1,4 @@
-Questao 9
+Questao9
 
 #include <stdio.h>
 #include <string.h>
