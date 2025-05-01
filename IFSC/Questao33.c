@@ -1,4 +1,5 @@
 Questao39
+
 #include <stdio.h>
 
 int main() {
