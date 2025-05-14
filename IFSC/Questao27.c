@@ -1,4 +1,4 @@
-Questão 33
+// Questão 33
   
 #include <stdio.h> // Inclusão de biblioteca
 int main() { // Função principal
