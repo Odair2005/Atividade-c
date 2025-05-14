@@ -1,4 +1,4 @@
-Questao7
+// Questão 7
 
 #include <stdio.h> // Inclusão de biblioteca
 
