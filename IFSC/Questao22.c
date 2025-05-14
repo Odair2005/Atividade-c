@@ -1,4 +1,5 @@
 // Questão 28
+
 #include <stdio.h> // Inclusão de biblioteca
 
 int main() { // Função principal
