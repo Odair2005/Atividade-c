@@ -1,4 +1,4 @@
-Questao23
+// Questão 23
 
 #include <stdio.h> // Inclusão de biblioteca
 
