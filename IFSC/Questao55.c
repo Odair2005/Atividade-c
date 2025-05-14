@@ -1,4 +1,4 @@
-// Questão 61
+// Questão 41
 #include <stdio.h>
 
 int main() {
@@ -28,4 +28,11 @@ int main() {
         printf("Média Aritmética: %.2f\n", media);
     } else if (opcao == 2) {
         // Média Ponderada
-        media = ((nota1 * 3) + (nota2 * 3) +
+        media = ((nota1 * 3) + (nota2 * 3) + (nota3 * 4)) / (3 + 3 + 4);
+        printf("Média Ponderada: %.2f\n", media);
+    } else {
+        printf("Opção inválida!\n");
+    }
+
+    return 0;
+}
