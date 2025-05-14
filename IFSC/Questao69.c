@@ -1,4 +1,4 @@
-Questão 75
+// Questão 75
   
 #include <stdio.h> // Inclusão de biblioteca
 
