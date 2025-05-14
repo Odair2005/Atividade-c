@@ -46,10 +46,10 @@ int main() {
             return 1;  // Termina o programa se o código for inválido
     }
 
-    // Calcula o total
+    // Calcula o valor total a ser pago
     total = preco_unitario * quantidade;
 
-    // Exibe o total a ser pago
+    // Exibe o valor a ser pago
     printf("Total a ser pago: R$ %.2f\n", total);
 
     return 0;
